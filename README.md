@@ -1,1 +1,6 @@
-# lormoon-backend
+# nksportal
+โปรเจคสารสนเทศ วิทยาลัยเทคนิคนครสวรรค์
+
+#INSTALL
+yarn install
+
